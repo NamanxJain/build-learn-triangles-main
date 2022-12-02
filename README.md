@@ -3,11 +3,6 @@
 A website which helps you to learn about triangles, contains quizzes & calculators.
 <br/>
 
-# Youtube Lesson
-[Link](https://youtu.be/xOaKv-6bJwE)
-
-# Problem Statement
-#### [**basics buildThree**](https://github.com/neogcamp/build/blob/main/basics/learn-triangles.md)
 
 # How to use:
  - Click on section you want to open.
@@ -22,5 +17,4 @@ A website which helps you to learn about triangles, contains quizzes & calculato
  - css 
  - javascript 
 
-Don't forget to leave a ⭐ if you found this useful.
 
