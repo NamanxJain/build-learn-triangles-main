@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check Hypotenuse</title>
+
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="main">
+
+            <h1 style="padding: 1.5rem 0 0.5rem;">Enter the lengths of sides of right angle triangle</h1>
+
+            <span class="span"><a href="index.html"></a></span>
+
+            <form id="hypoForm">
+
+                <span>a = </span><input type="number" class="inputLines" id="inputFields" min="1" required />
+
+                <span>b = </span><input type="number" class="inputLines" id="inputFields" min="1" required />
+
+
+                <button type="submit" class="primaryLink2">Submit</button>
+
+                <div style=" font-size: 1.3rem;">Hypotenuse will be calculated and the result will be displayed here:
+                </div>
+                <output id="outputHypo" style=" font-size: 1.3rem;"></output>
+            </form>
+        </div>
+    </div>
+
+
+    <script src="js/hypotenuse.js"></script>
+</body>
+
+</html>

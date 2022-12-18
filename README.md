@@ -1,26 +1,18 @@
-# build-learn-triangles
-### mark12. Do you know your triangles quiz.
-A website which helps you to learn about triangles, contains quizzes & calculators.
-<br/>
+# Triangle-Angle
 
-# Youtube Lesson
-[Link](https://youtu.be/xOaKv-6bJwE)
+This is a fun web-app based on triangles built using JavaScript
 
-# Problem Statement
-#### [**basics buildThree**](https://github.com/neogcamp/build/blob/main/basics/learn-triangles.md)
+## What all can you do?
+- Angles of Triangle: To check if user input angles form a triangle or not.
+- Calculate Hypotenuse: To calculate hypotenuse from the side length given by user.
+- Calculate Area: To calculate area depending on the data about triangles user has.
+- Take a Quiz: A fun quiz with easy questions to check user's basic concepts of triangles.
 
-# How to use:
- - Click on section you want to open.
-    - Play Quiz: Select answers and click on submit to check the score
-    - Angles of Triangle: Enter values in input fields and click on submit to check results.
-    - Check Hypotenuse: Enter values in input fields and click on submit to check results.
-    - Calculate Area: Enter values in input fields and click on submit to check results.
-
-
-# Programming Language:
- - html
- - css 
- - javascript 
-
-Don't forget to leave a ⭐ if you found this useful.
-
+## User Guide!
+Click on section you want to open.
+- Angles of Triangle: Enter values in input fields and check if it forms a triangle or not.
+- Check Hypotenuse: Enter the values and click on submit to calculate the value.
+- Calculate Area: Select one option according to the available data. Enter the values and check the results.
+- Take a Quiz: Select answers and click on submit to check the score!
+## Check it out!
+[Live Link](https://triangle-angle.netlify.app/)
